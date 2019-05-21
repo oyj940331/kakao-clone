@@ -1,5 +1,10 @@
+.find-body {
+  padding: 0;
+  padding-top: 110px;
+}
+
 .find {
-  margin-top: 50px;
+  padding: 0px 10px;
 }
 
 .find .find__header-list {
