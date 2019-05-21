@@ -1,3 +1,12 @@
+.friends-body {
+  padding: 0;
+  padding-top: 110px;
+}
+
+.friends {
+  padding: 0px 10px;
+}
+
 .friends .friends__plus {
   padding: 20px 0px;
   margin: 20px 0px;
